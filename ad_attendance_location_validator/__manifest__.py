@@ -1,6 +1,6 @@
 {
     'name': 'Attendance Location Validator',
-    'version': '18.0.1.0',
+    'version': '17.0.1.0',
     'summary': 'Enforce office location check-in with remote check-in exceptions for attendance',
     'description': """
         This module enforces attendance check-in only from configured office location using GPS validation.
@@ -31,4 +31,3 @@
     'auto_install': False,
     'images': ['static/description/banner.png'],
 }
-
