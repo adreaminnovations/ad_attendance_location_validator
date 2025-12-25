@@ -8,7 +8,7 @@
         ✔ Seamlessly integrates with Odoo Attendance to enhance accuracy and compliance.
     """,
     'category': 'Human Resources/Attendance',
-    'website': 'https://adreaminnovations.github.io/freelance_portfolio',
+    'website': 'https://adreaminnovations.odoo.com',
     'author': 'ADream Innovations',
     'license': 'LGPL-3',
     'depends': [
