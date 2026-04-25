@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 {
     'name': 'Attendance Location Validator',
     'version': '18.0.1.0',
