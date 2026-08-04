@@ -11,6 +11,7 @@
     """,
     'category': 'Human Resources/Attendance',
     'website': 'https://adreaminnovations.odoo.com',
+    "support": "info@adream-innovation.odoo.com",
     'author': 'ADream Innovations',
     'license': 'LGPL-3',
     'depends': [
